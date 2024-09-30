@@ -1,4 +1,4 @@
-### Hi there 👋, my name is aNONDO rAY
+### Hi there 👋, my name is Anondo
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
