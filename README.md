@@ -1,23 +1,26 @@
 <h1 align="center">Hi 👋, I'm Al-Amin</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thealamindev&label=Profile%20views&color=0e75b6&style=flat" alt="thealamindev" /> </p>
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I love my works Always ....
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thealamindev" alt="thealamindev" /></a> </p>
+Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc...
 
-- 🔭 I’m currently working on **Chatting Application**
+- 🔭 I’m currently working on techtrove_GadgetBazer :https://techtrove-abe8f.web.app
+- 🌱 I’m currently learning MongoDb 
+- 💬 Ask me about Web Developement
+- My Portfolio : https://magenta-pasca-f83c49.netlify.app/
 
-- 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/alamin_dev](https://www.behance.net/alamin_dev)
 
-- 💬 Ask me about **React JS, PHP, Laravel, WordPress**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Soikotdeb)  
 
-- 📫 How to reach me **thealamindev@gmail.com**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/alamin_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alamin_dev" height="30" width="40" /></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Soikotdeb)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soikotdeb)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Soikotdeb&show_icons=true&count_private=true)  generator/master/src/images/icons/Social/devto.svg" alt="alamin_dev" height="30" width="40" /></a>
 <a href="https://twitter.com/alamin_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alamin_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alamin-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alamin-dev" height="30" width="40" /></a>
 <a href="https://fb.com/thealamindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thealamindev" height="30" width="40" /></a>
