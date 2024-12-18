@@ -38,6 +38,5 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anondoraydev&show_icons=true&locale=en&layout=compact" alt="anondoraydev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anondoraydev&show_icons=true&locale=en" alt="anondoraydev" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anondoraydev&" alt="anondoraydev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anondoraydev&show_icons=true&locale=en" alt="anondoraydev" /></p> 
 
