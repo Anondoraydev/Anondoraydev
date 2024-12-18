@@ -6,11 +6,9 @@
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I love my works Always ....
 
 Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc...
-
-- 🔭 I’m currently working on techtrove_GadgetBazer :https://techtrove-abe8f.web.app
+ 
 - 🌱 I’m currently learning MongoDb 
-- 💬 Ask me about Web Developement
-- My Portfolio : https://magenta-pasca-f83c49.netlify.app/
+- 💬 Ask me about Web Developement 
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anondoraydev&label=Profile%20views&color=0e75b6&style=flat" alt="anondoraydev" /> </p>
