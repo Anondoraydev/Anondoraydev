@@ -20,6 +20,8 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soikotdeb)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Soikotdeb&show_icons=true&count_private=true)  thub-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Soikotdeb&show_icons=true&count_private=true)  generator/master/src/images/icons/Social/devto.svg" alt="alamin_dev" height="30" width="40" /></a>
 <a href="https://twitter.com/alamin_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alamin_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alamin-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alamin-dev" height="30" width="40" /></a>
