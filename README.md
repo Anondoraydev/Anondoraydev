@@ -18,7 +18,8 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 <p align="left"> <a href="https://twitter.com/anondo553" target="blank"><img src="https://img.shields.io/twitter/follow/anondo553?logo=twitter&style=for-the-badge" alt="anondo553" /></a> </p>
 
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=dracula&rank=SSS,SS,S)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=onedark&column=4&rank=SSS,SS,S)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
