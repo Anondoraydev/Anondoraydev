@@ -52,7 +52,10 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
   <img src="https://profile-counter.glitch.me/Anondoraydev/count.svg?"  />
 </div>
 
-<p align="center">
+ ##    ##
+
+
+ <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=onedark&column=8&margin-w=5&margin-h=5">
 </p>
 
@@ -61,3 +64,14 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anondoraydev&theme=onedark" alt="GitHub Streak">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anondoraydev&layout=compact&theme=onedark" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anondoraydev&theme=onedark" alt="Profile Details">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&theme=onedark&hide_border=true" alt="Activity Graph">
+</p>
