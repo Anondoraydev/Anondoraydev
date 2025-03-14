@@ -76,11 +76,3 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&theme=radical&hide_border=true" alt="Activity Graph">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-achievements.vercel.app/?username=Anondoraydev&theme=radical" alt="Achievements">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-visitor-badge.vercel.app/badge?page_id=Anondoraydev" alt="Visitor Badge">
-</p>
