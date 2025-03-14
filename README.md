@@ -75,3 +75,19 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&theme=radical&hide_border=true" alt="Activity Graph">
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anondoraydev&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack-JavaScript-ffb81c?style=flat-square&logo=javascript" alt="Tech Stack">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack-React-61dafb?style=flat-square&logo=react" alt="Tech Stack">
+</p>
