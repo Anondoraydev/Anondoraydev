@@ -58,11 +58,10 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=radical&column=8&margin-w=5&margin-h=5">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anondoraydev&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anondoraydev&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anondoraydev&theme=radical" alt="GitHub Streak">
 </p>
 
@@ -71,7 +70,7 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anondoraydev&theme=radical" alt="Profile Details">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=radical&rank=SSS,SS,S" alt="Trophy Rankings">
 </p>
 
 <p align="center">
@@ -83,17 +82,5 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 </p>
 
 <p align="center">
-  <img src="https://github-readme-iconic-stats.vercel.app/api?username=Anondoraydev&theme=radical" alt="Iconic Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=radical&rank=SSS,SS,S" alt="Trophy Rankings">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anondoraydev&repo=github-readme-stats" alt="Pinned Repos">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Anondoraydev-blue" alt="LinkedIn Profile">
+  <img src="https://github-readme-visitor-badge.vercel.app/badge?page_id=Anondoraydev" alt="Visitor Badge">
 </p>
