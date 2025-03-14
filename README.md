@@ -58,24 +58,24 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=onedark&column=8&margin-w=5&margin-h=5">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=radical&column=8&margin-w=5&margin-h=5">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anondoraydev&show_icons=true&theme=onedark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anondoraydev&theme=onedark" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anondoraydev&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anondoraydev&theme=radical" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anondoraydev&layout=compact&theme=onedark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anondoraydev&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anondoraydev&theme=onedark" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anondoraydev&theme=radical" alt="Profile Details">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&theme=onedark&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&theme=radical&hide_border=true" alt="Activity Graph">
 </p>
 
 <p align="center">
@@ -83,15 +83,15 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 </p>
 
 <p align="center">
-  <img src="https://github-readme-achievements.vercel.app/?username=Anondoraydev&theme=onedark" alt="Achievements">
+  <img src="https://github-readme-achievements.vercel.app/?username=Anondoraydev&theme=radical" alt="Achievements">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-iconic-stats.vercel.app/api?username=Anondoraydev&theme=onedark" alt="Iconic Stats">
+  <img src="https://github-readme-iconic-stats.vercel.app/api?username=Anondoraydev&theme=radical" alt="Iconic Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=onedark&rank=SSS,SS,S" alt="Trophy Rankings">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=radical&rank=SSS,SS,S" alt="Trophy Rankings">
 </p>
 
 <p align="center">
