@@ -75,19 +75,3 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&theme=radical&hide_border=true" alt="Activity Graph">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&bg_color=ffffff&color=000000&line=000000&point=0000FF&hide_border=true" alt="Alternative Activity Graph">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&bg_color=000000&color=FFFFFF&line=FF4500&point=FFD700&hide_border=true" alt="Dark-Themed Activity Graph">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&bg_color=000000&color=36f&line=36f&point=fff&hide_border=true" alt="Neon Activity Graph">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&bg_color=000000&color=00FF00&line=00FF00&point=ffffff&hide_border=true" alt="Green-Themed Activity Graph">
-</p>
