@@ -52,8 +52,12 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
   <img src="https://profile-counter.glitch.me/Anondoraydev/count.svg?"  />
 </div>
 
-###
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=onedark&column=8&margin-w=5&margin-h=5">
+</p>
 
-<img src="https://raw.githubusercontent.com/Anondoraydev/Anondoraydev/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anondoraydev&show_icons=true&theme=onedark" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anondoraydev&theme=onedark" alt="GitHub Streak">
+</p>
 
-###
