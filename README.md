@@ -57,7 +57,7 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 
 
 
- <p align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=onedark&column=8&margin-w=5&margin-h=5">
 </p>
 
@@ -96,4 +96,28 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&theme=github&hide_border=true" alt="GitHub Activity">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anondoraydev&repo=github-readme-stats" alt="Pinned Repos">
+</p>
+
+<p align="center">
+  <img src="https://badges.pufler.dev/stack-overflow/Anondoraydev" alt="Stack Overflow Badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-Anondoraydev-blue" alt="LinkedIn Profile">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Website-www.anondoraydev.com-green" alt="Personal Website">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blog-Blog%20Page-yellow" alt="Blog Page">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Support-Patreon-orange" alt="Support via Patreon">
 </p>
