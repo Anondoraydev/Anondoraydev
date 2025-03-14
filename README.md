@@ -57,37 +57,37 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anondoraydev&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anondoraydev&show_icons=true&theme=gruvbox" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anondoraydev&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anondoraydev&theme=gruvbox" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anondoraydev&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anondoraydev&layout=compact&theme=gruvbox" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=radical&rank=SSS,SS,S" alt="Trophy Rankings">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=gruvbox&rank=SSS,SS,S" alt="Trophy Rankings">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&theme=radical&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&theme=gruvbox&hide_border=true" alt="Activity Graph">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anondoraydev&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views">
+  <img src="https://badges.pufler.dev/visits/Anondoraydev/Anondoraydev" alt="Profile Visits">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Anondoraydev.Anondoraydev" alt="Visitor Badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-JavaScript-ffb81c?style=flat-square&logo=javascript" alt="Tech Stack">
+  <img src="https://github-readme-stackoverflow.vercel.app/?user=Anondoraydev" alt="StackOverflow Profile">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-React-61dafb?style=flat-square&logo=react" alt="Tech Stack">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-yellow?style=flat-square&logo=youtube" alt="YouTube Badge">
 </p>
