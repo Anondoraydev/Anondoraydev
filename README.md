@@ -13,27 +13,12 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anondoraydev&label=Profile%20views&color=0e75b6&style=flat" alt="anondoraydev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anondoraydev" alt="anondoraydev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/anondo553" target="blank"><img src="https://img.shields.io/twitter/follow/anondo553?logo=twitter&style=for-the-badge" alt="anondo553" /></a> </p>
-
- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=onedark&column=8&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-
-
-
-
+<p align="left"> <a href="https://twitter.com/anondo553" target="blank"><img src="https://img.shields.io/twitter/follow/anondo553?logo=twitter&style=for-the-badge" alt="anondo553" /></a> </p>  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Anondoraydev)  
-
-
-
-
-
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anondo553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anondo553" height="30" width="40" /></a>
