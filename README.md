@@ -57,7 +57,7 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 
 
 
-<p align="center">
+ <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=onedark&column=8&margin-w=5&margin-h=5">
 </p>
 
@@ -79,21 +79,21 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 </p>
 
 <p align="center">
-  <img src="https://github-readme-steps.vercel.app/api/steps?username=Anondoraydev&theme=onedark" alt="Steps">
+  <img src="https://github-readme-visitor-badge.vercel.app/badge?page_id=Anondoraydev" alt="Visitor Badge">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-views-counter.vercel.app/api/view?username=Anondoraydev&color=onedark" alt="Profile Views">
+  <img src="https://github-readme-achievements.vercel.app/?username=Anondoraydev&theme=onedark" alt="Achievements">
 </p>
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/Anondoraydev/Anondoraydev?style=flat-square&color=blue" alt="Profile Visits">
+  <img src="https://github-readme-iconic-stats.vercel.app/api?username=Anondoraydev&theme=onedark" alt="Iconic Stats">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anondoraydev&style=flat-square&color=blue" alt="Profile Views Count">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=onedark&rank=SSS,SS,S" alt="Trophy Rankings">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-twitter.gazf.vercel.app/api?username=Anondoraydev" alt="Twitter Feed">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&theme=github&hide_border=true" alt="GitHub Activity">
 </p>
