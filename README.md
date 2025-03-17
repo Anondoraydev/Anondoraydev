@@ -13,7 +13,7 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anondoraydev&label=Profile%20views&color=0e75b6&style=flat" alt="anondoraydev" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=onedark&column=8&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anondoraydev)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/anondo553" target="blank"><img src="https://img.shields.io/twitter/follow/anondo553?logo=twitter&style=for-the-badge" alt="anondo553" /></a> </p>  
 
@@ -45,4 +45,4 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 
  ![snake gif](https://github.com/Anondoraydev/Anondoraydev/blob/output/github-snake-dark.svg)
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anondoraydev)](https://github.com/ryo-ma/github-profile-trophy)
+
