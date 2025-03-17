@@ -45,3 +45,4 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 
  ![snake gif](https://github.com/Anondoraydev/Anondoraydev/blob/output/github-snake-dark.svg)
  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anondoraydev)](https://github.com/ryo-ma/github-profile-trophy)
