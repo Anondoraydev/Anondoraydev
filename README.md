@@ -45,8 +45,6 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 
 
 
-[ ![GitHub Snake](https://github.com/Anondoraydev/REPO_NAME/blob/output/github-snake.svg)
- tput/github-snake.svg)
-](https://github.com/Anondoraydev/Anondoraydev/blob/output/github-snake-dark.svg)
+[![GitHub Snake](https://github.com/Anondoraydev/Anondoraydev/blob/output/github-snake-dark.svg)] 
  
 
