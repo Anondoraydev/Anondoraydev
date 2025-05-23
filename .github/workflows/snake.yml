@@ -2,11 +2,11 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # রান হবে প্রতিদিন রাত ১২টায় UTC সময়
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch:     # Manual trigger support
   push:
     branches:
-      - main
+      - main             # Trigger on push to main
 
 jobs:
   generate:
@@ -20,7 +20,7 @@ jobs:
       - name: Generate GitHub Contributions Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: Anondoraydev  # ← এখানে আপনার GitHub ইউজারনেম দিন
+          github_user_name: Anondoraydev   # 🔁 Replace with your GitHub username
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
