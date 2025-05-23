@@ -44,7 +44,11 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anondoraydev&show_icons=true&locale=en" alt="anondoraydev" /></p> 
 
 
+## 🐍 My GitHub Contribution Snake
 
-[![GitHub Snake](https://github.com/Anondoraydev/Anondoraydev/blob/output/github-snake-dark.svg)] 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anondoraydev/Anondoraydev/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
+
  
 
