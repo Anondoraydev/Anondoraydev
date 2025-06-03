@@ -7,7 +7,8 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc...
  
-- 🌱 I’m currently learning MongoDb 
+- 🌱 I’m currently learning MongoDb
+- 
 - 💬 Ask me about Web Developement 
  
 
