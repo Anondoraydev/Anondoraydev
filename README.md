@@ -6,8 +6,7 @@
     alt="Typing SVG"
   />
 </h1>  
-
----
+ 
 
 # 💫 About Me:
 
@@ -25,7 +24,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
   <img src="https://komarev.com/ghpvc/?username=anondoraydev&label=Profile%20views&color=0e75b6&style=flat" alt="anondoraydev" /> 
 </p>
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 # 💻 Tech Stack:
 
@@ -75,7 +74,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 # 📊 GitHub Stats:
 
@@ -100,7 +99,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
   />
 </div>
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🏆 GitHub Trophies
 
@@ -108,7 +107,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
   <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 🔝 Top Contributed Repos
 
@@ -116,12 +115,11 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
   <img src="https://github-contributor-stats.vercel.app/api?username=Anondoraydev&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </div>
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 [![Visitor Count](https://profile-counter.glitch.me/Anondoraydev/count.svg)](https://profile-counter.glitch.me/Anondoraydev)
 
-
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🐍 My GitHub Contribution Snake
 
@@ -129,7 +127,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
   <img src="https://raw.githubusercontent.com/Anondoraydev/Anondoraydev/output/github-snake-dark.svg" alt="GitHub Snake Animation" style="max-width:100%;border-radius:10px;" />
 </p>
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📫 Connect with Me:
 
@@ -148,7 +146,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
   </a>
 </p>
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
   # Show some ❤️ by starring some repositories!
