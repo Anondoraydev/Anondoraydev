@@ -118,7 +118,8 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Anondoraydev&icon=3&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://profile-counter.glitch.me/Anondoraydev/count.svg)](https://profile-counter.glitch.me/Anondoraydev)
+
 
 ---
 
