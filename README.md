@@ -7,8 +7,16 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I’m a Front End Web Developer dedicated to building clean, efficient, and bug-free websites that ensure 100% client satisfaction. I’m passionate about continuous learning and enjoy sharing my knowledge with the community. Solving practical problems and delivering results with a clear focus drives me forward. I approach every project with strategy and purpose, and I genuinely love what I do.
 
+Skills: React.js / MongoDB / JavaScript / HTML / CSS / Bootstrap / Tailwind CSS / And more...
+
+🌱 I’m currently learning MongoDB and Backend Development with Express.js  
+💻 Skilled in Frontend development using React.js, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS  
+🚀 Working on improving my backend skills and building full-stack projects   
+📚 Passionate about learning and sharing knowledge  
+🎯 Focused on creating clean, error-free, and user-friendly websites  
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anondoraydev&label=Profile%20views&color=0e75b6&style=flat" alt="anondoraydev" /> </p>
 
 # 💻 Tech Stack:
