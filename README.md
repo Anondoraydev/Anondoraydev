@@ -18,7 +18,12 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 - 💻 Skilled in frontend development using **React.js**, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS  
 - 🚀 Working on improving my backend skills and building full-stack projects   
 - 📚 Passionate about learning and sharing knowledge  
-- 🎯 Focused on creating clean, error-free, and user-friendly websites  
+- 🎯 Focused on creating clean, error-free, and user-friendly websites
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/kYYAfRAc) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/anondo554.0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anondoray553/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anondo-ray-7b486b1b4/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AjoySarkar553) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anondo554@gmail.com) 
+# 📊 GitHub Stats:
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=anondoraydev&label=Profile%20views&color=0e75b6&style=flat" alt="anondoraydev" /> 
@@ -129,22 +134,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 📫 Connect with Me:
-
-<p align="center">
-  <a href="https://linkedin.com/in/ajoysarkar" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/anondoraydev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/Anondoraydev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:ajoy.sarkar@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+ 
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
