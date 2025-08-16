@@ -7,7 +7,6 @@
   />
 </h1>  
  
-
 # 💫 About Me:
 
 I’m a **Front End Web Developer** dedicated to building clean, efficient, and bug-free websites that ensure **100% client satisfaction**. I’m passionate about continuous learning and enjoy sharing my knowledge with the community. Solving practical problems and delivering results with a clear focus drives me forward. I approach every project with strategy and purpose, and I genuinely love what I do.
