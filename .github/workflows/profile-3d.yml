@@ -1,0 +1,26 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # প্রতিদিন রাত 12 টায় রান করবে
+    - cron: "0 0 * * *"
+  workflow_dispatch: # ম্যানুয়ালি চালাতে পারবে
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -A .
+          git commit -m "generated 3D profile contribution graph" || exit 0
+          git push
