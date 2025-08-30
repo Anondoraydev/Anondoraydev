@@ -30,6 +30,8 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+
+
 # 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -80,6 +82,15 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+</div>
+
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 # 📊 GitHub Stats:
 
 <div align="center">
@@ -105,12 +116,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
-</div>
 
-![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📈 Activity Graph
 <p align="center">
@@ -128,9 +134,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-[![Visitor Count](https://profile-counter.glitch.me/Anondoraydev/count.svg)](https://profile-counter.glitch.me/Anondoraydev)
-
-![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+ 
 
 ## 🐍 My GitHub Contribution Snake
 
@@ -140,14 +144,13 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+ 
 
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
-![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
   # Show some ❤️ by starring some repositories!
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
