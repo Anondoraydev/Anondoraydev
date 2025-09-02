@@ -6,6 +6,21 @@
     alt="Typing SVG"
   />
 </h1>  
+
+# 📊 GitHub Stats:
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=anondoraydev&label=Profile%20views&color=0e75b6&style=flat" alt="anondoraydev" /> 
+</p>
+
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+</div>
+
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
 # 💫 About Me:
 
@@ -22,13 +37,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/kYYAfRAc) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anondo554.0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anondoray553/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anondo-ray-7b486b1b4/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AjoySarkar553) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anondo554@gmail.com) 
-# 📊 GitHub Stats:
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=anondoraydev&label=Profile%20views&color=0e75b6&style=flat" alt="anondoraydev" /> 
-</p>
-
-![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
 
@@ -84,12 +93,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
-</div>
 
-![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 # 📊 GitHub Stats:
 
