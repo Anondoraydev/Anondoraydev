@@ -7,12 +7,7 @@
   />
 </h1>
 
-
-<h1 align="center">
-  <img src="./assets/typing.svg" alt="Typing Animation" />
-</h1>
-
-
+ 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=anondoraydev&label=Profile%20views&color=0e75b6&style=flat" alt="anondoraydev" /> 
 </p>
